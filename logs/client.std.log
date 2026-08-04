@@ -1,0 +1,130 @@
+[2026-08-03 17:28:08] [client] `server.hmr.protocol/host/port/path/clientPort/timeout/server` is deprecated. Use `server.ws.*` instead. Note that this option may be set by a plugin. Set VITE_DEPRECATION_TRACE=1 to see where it is called.
+[2026-08-03 17:28:08] [client] 
+[2026-08-03 17:28:08] [client]   VITE v8.1.4  ready in 398 ms
+[2026-08-03 17:28:08] [client] 
+[2026-08-03 17:28:08] [client]   ➜  Local:   http://localhost:8001/
+[2026-08-03 17:28:08] [client]   ➜  Network: http://192.168.3.66:8001/
+[2026-08-03 17:28:08] [client]   ➜  Network: http://172.23.0.1:8001/
+[2026-08-03 17:28:08] [client]   ➜  Network: http://172.17.0.1:8001/
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] changed tsconfig file detected: /makemoney/Work/Code/meefy/48 国际音标学习工作台/tsconfig.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] vite.config.ts changed, restarting server...
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload index.html
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) hmr update /src/app.tsx, /src/index.css
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) hmr update /src/index.css
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/index.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/tailwind-theme.css
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/typography.css
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/Header.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/Layout.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/PhoneticCard.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/accordion.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/alert-dialog.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/alert.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/aspect-ratio.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/avatar.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/badge.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/breadcrumb.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/button-group.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/button.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/calendar.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/card.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/carousel.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/chart.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/checkbox.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/collapsible.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/command.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/context-menu.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/dialog.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/drawer.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/dropdown-menu.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/empty.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/field.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/form.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/hover-card.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/image.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/input-group.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/input-otp.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/input.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/item.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/kbd.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/label.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/menubar.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/native-select.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/navigation-menu.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/pagination.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/popover.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/progress.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/radio-group.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/resizable.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/scroll-area.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/select.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/separator.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/sheet.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/sidebar.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/skeleton.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/slider.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/sonner.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/spinner.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/switch.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/table.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/tabs.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/textarea.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/toggle-group.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/toggle.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/components/ui/tooltip.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/data/confusingpairs.ts
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/data/mouthdiagrams.ts
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/data/phonetics.ts
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/hooks/use-mobile.ts
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/lib/progress.ts
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/lib/speech.ts
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/lib/utils.ts
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/pages/ComparePage/ComparePage.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/pages/ExamplePage/ExamplePage.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/pages/HomePage/HomePage.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/pages/LearnPage/LearnPage.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/pages/MouthPage/MouthPage.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/pages/NotFoundPage/NotFoundPage.tsx
+[2026-08-04 16:55:20] [client] 16:55:20 [vite] (client) page reload src/pages/QuizPage/QuizPage.tsx
+[2026-08-04 16:55:21] [client] [miaoda-fonts-mirror] ✓ rewrote 1 occurrence(s) across 1 file(s) → https://miaoda.feishu.cn/fonts
+[2026-08-04 16:55:21] [client] [miaoda-fonts-mirror] ✓ rewrote 1 occurrence(s) across 1 file(s) → https://miaoda.feishu.cn/fonts
+[2026-08-04 16:55:21] [client] 16:55:21 [vite] server restarted.
+[2026-08-04 16:55:21] [client] node:internal/fs/watchers:247
+[2026-08-04 16:55:21] [client]     const error = new UVException({
+[2026-08-04 16:55:21] [client]                   ^
+[2026-08-04 16:55:21] [client] 
+[2026-08-04 16:55:21] [client] Error: EMFILE: too many open files, watch '/makemoney/Work/Code/meefy/48 国际音标学习工作台'
+[2026-08-04 16:55:21] [client]     at FSWatcher.<computed> (node:internal/fs/watchers:247:19)
+[2026-08-04 16:55:21] [client]     at Object.watch (node:fs:2549:36)
+[2026-08-04 16:55:21] [client]     at createFsWatchInstance (file:///makemoney/Work/Code/meefy/48%20%E5%9B%BD%E9%99%85%E9%9F%B3%E6%A0%87%E5%AD%A6%E4%B9%A0%E5%B7%A5%E4%BD%9C%E5%8F%B0/node_modules/vite/dist/node/chunks/node.js:9185:16)
+[2026-08-04 16:55:21] [client]     at setFsWatchListener (file:///makemoney/Work/Code/meefy/48%20%E5%9B%BD%E9%99%85%E9%9F%B3%E6%A0%87%E5%AD%A6%E4%B9%A0%E5%B7%A5%E4%BD%9C%E5%8F%B0/node_modules/vite/dist/node/chunks/node.js:9227:14)
+[2026-08-04 16:55:21] [client]     at NodeFsHandler._watchWithNodeFs (file:///makemoney/Work/Code/meefy/48%20%E5%9B%BD%E9%99%85%E9%9F%B3%E6%A0%87%E5%AD%A6%E4%B9%A0%E5%B7%A5%E4%BD%9C%E5%8F%B0/node_modules/vite/dist/node/chunks/node.js:9342:20)
+[2026-08-04 16:55:21] [client]     at NodeFsHandler._handleDir (file:///makemoney/Work/Code/meefy/48%20%E5%9B%BD%E9%99%85%E9%9F%B3%E6%A0%87%E5%AD%A6%E4%B9%A0%E5%B7%A5%E4%BD%9C%E5%8F%B0/node_modules/vite/dist/node/chunks/node.js:9505:19)
+[2026-08-04 16:55:21] [client]     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2026-08-04 16:55:21] [client]     at async NodeFsHandler._addToNodeFs (file:///makemoney/Work/Code/meefy/48%20%E5%9B%BD%E9%99%85%E9%9F%B3%E6%A0%87%E5%AD%A6%E4%B9%A0%E5%B7%A5%E4%BD%9C%E5%8F%B0/node_modules/vite/dist/node/chunks/node.js:9548:15)
+[2026-08-04 16:55:21] [client]     at async file:///makemoney/Work/Code/meefy/48%20%E5%9B%BD%E9%99%85%E9%9F%B3%E6%A0%87%E5%AD%A6%E4%B9%A0%E5%B7%A5%E4%BD%9C%E5%8F%B0/node_modules/vite/dist/node/chunks/node.js:10200:18
+[2026-08-04 16:55:21] [client]     at async Promise.all (index 0)
+[2026-08-04 16:55:21] [client] Emitted 'error' event on FSWatcher instance at:
+[2026-08-04 16:55:21] [client]     at FSWatcher._handleError (file:///makemoney/Work/Code/meefy/48%20%E5%9B%BD%E9%99%85%E9%9F%B3%E6%A0%87%E5%AD%A6%E4%B9%A0%E5%B7%A5%E4%BD%9C%E5%8F%B0/node_modules/vite/dist/node/chunks/node.js:10359:146)
+[2026-08-04 16:55:21] [client]     at NodeFsHandler._addToNodeFs (file:///makemoney/Work/Code/meefy/48%20%E5%9B%BD%E9%99%85%E9%9F%B3%E6%A0%87%E5%AD%A6%E4%B9%A0%E5%B7%A5%E4%BD%9C%E5%8F%B0/node_modules/vite/dist/node/chunks/node.js:9565:18)
+[2026-08-04 16:55:21] [client]     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2026-08-04 16:55:21] [client]     at async file:///makemoney/Work/Code/meefy/48%20%E5%9B%BD%E9%99%85%E9%9F%B3%E6%A0%87%E5%AD%A6%E4%B9%A0%E5%B7%A5%E4%BD%9C%E5%8F%B0/node_modules/vite/dist/node/chunks/node.js:10200:18
+[2026-08-04 16:55:21] [client]     at async Promise.all (index 0) {
+[2026-08-04 16:55:21] [client]   errno: -24,
+[2026-08-04 16:55:21] [client]   syscall: 'watch',
+[2026-08-04 16:55:21] [client]   code: 'EMFILE',
+[2026-08-04 16:55:21] [client]   path: '/makemoney/Work/Code/meefy/48 国际音标学习工作台',
+[2026-08-04 16:55:21] [client]   filename: '/makemoney/Work/Code/meefy/48 国际音标学习工作台'
+[2026-08-04 16:55:21] [client] }
+[2026-08-04 16:55:21] [client] 
+[2026-08-04 16:55:21] [client] Node.js v22.17.0
+[2026-08-04 16:56:16] [client] `server.hmr.protocol/host/port/path/clientPort/timeout/server` is deprecated. Use `server.ws.*` instead. Note that this option may be set by a plugin. Set VITE_DEPRECATION_TRACE=1 to see where it is called.
+[2026-08-04 16:56:16] [client] 
+[2026-08-04 16:56:16] [client]   VITE v8.1.4  ready in 438 ms
+[2026-08-04 16:56:16] [client] 
+[2026-08-04 16:56:16] [client]   ➜  Local:   http://localhost:8001/
+[2026-08-04 16:56:16] [client]   ➜  Network: http://192.168.3.66:8001/
+[2026-08-04 16:56:16] [client]   ➜  Network: http://172.23.0.1:8001/
+[2026-08-04 16:56:16] [client]   ➜  Network: http://172.17.0.1:8001/
+[2026-08-04 16:56:28] [client] [miaoda-fonts-mirror] ✓ rewrote 1 occurrence(s) across 1 file(s) → https://miaoda.feishu.cn/fonts
+[2026-08-04 16:56:28] [client] [miaoda-fonts-mirror] ✓ rewrote 1 occurrence(s) across 1 file(s) → https://miaoda.feishu.cn/fonts
