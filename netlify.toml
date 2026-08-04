@@ -1,4 +1,9 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# SPA路由重写，解决刷新404
 [[redirects]]
-from = "/*"
-to = "/index.html"
-status = 200
+  from = "/*"
+  to = "/index.html"
+  status = 200
